@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ejerciciosCondicionales.iml" filepath="$PROJECT_DIR$/ejerciciosCondicionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejerciciosEstructurasControl.iml" filepath="$PROJECT_DIR$/ejerciciosEstructurasControl.iml" />
     </modules>
   </component>
 </project>
